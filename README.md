@@ -3,9 +3,10 @@ A complete chess simulator with a CPU programmed using game trees and alph-beta 
 
 Keyboard shortcuts:
 
-r: reset game
+  r: reset game
 
-z: undo last move
+  z: undo last move
+
 
 Chess AI estimated to have an elo rating of about 1400 based on casual testing with Chess.com bots and real life chess players
 
