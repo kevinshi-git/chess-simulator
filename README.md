@@ -1,7 +1,7 @@
 # chess-simulator
 A complete chess simulator with a CPU programmed using game trees and alph-beta pruning. 
 
-Keyboard shortcuts:
+Keyboard shortcuts:\n
 r: reset game
 z: undo last move
 
